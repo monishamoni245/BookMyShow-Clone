@@ -4,7 +4,7 @@ import { BiSolidStar, BiShareAlt, BiChevronRight } from "react-icons/bi";
 
 const launchRazorPay = () => {
     const options = {
-      key: "rzp_test_7z8RKOqxuqAWCb",
+      key: "Your_API_KEY",
       amount: 500*100,
       currency: "INR",
       name: "Book My Show Clone",
